@@ -16,10 +16,11 @@ These errors are handled in this program, and the error message is displayed in 
 
 #### Error testcase
 ![Example Error](img3.jpeg )
+
 Note - All the values get cleared if error, except for the error label. In the above example, the input value was -4.
 
 
 ### Log file
-The log file contains details of all the operations performed by the user, including input and getting an output, as well as details if any error has occurred. The format is 
-`Date - Time [ERROR] --- Value input : value`
+The log file contains details of all the operations performed by the user, including input and getting an output, as well as details if any error has occurred. The format is `Date - Time [ERROR] --- Value input : value`
+
 If no error, the error term is displayed as `[ERROR: None]`
