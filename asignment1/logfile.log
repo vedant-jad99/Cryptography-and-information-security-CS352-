@@ -1,0 +1,13 @@
+2021-02-11 - 09:02:04 [ERROR: None] --- Value input : 5
+2021-02-11 - 09:02:07 [ERROR: None] --- Value input : 6
+2021-02-11 - 09:02:11 [ERROR: None] --- Value input : 30
+2021-02-11 - 09:02:14 [ERROR: None] --- Value input : 19
+2021-02-11 - 09:02:18 [ERROR: None] --- Value input : 7
+2021-02-11 - 09:02:24 [ERROR: AssertionError] --- Value input : -3
+2021-02-11 - 09:02:26 [ERROR: None] --- Value input : 3
+2021-02-11 - 09:02:29 [ERROR: ValueError] --- Value input : w
+2021-02-11 - 09:02:32 [ERROR: None] --- Value input : 2
+2021-02-12 - 19:04:38 [ERROR: None] --- Value input : 4
+2021-02-12 - 19:05:43 [ERROR: None] --- Value input : 5
+2021-02-12 - 19:06:12 [ERROR: AssertionError] --- Value input : -4
+2021-02-12 - 19:06:58 [ERROR: AssertionError] --- Value input : -4
