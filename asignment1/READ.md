@@ -3,8 +3,8 @@
 This is a simple GUI based python program to calculate the Mobius function value and Euler's totient function value of a number inputted in the GUI window. The user inputs the number in the entry widget in the GUI which is labelled as "Enter a number", and he get' an ouput of the mobius as well as euler'e totient function output.
 
 #### Images of test cases -
-![Test Case 1](Cryptography-and-information-security-CS352-/asignment1/img1.jpeg)
-![Test Case 2](Cryptography-and-information-security-CS352-/asignment1/img2.jpeg)
+![Test Case 1](img1.jpeg)
+![Test Case 2](img2.jpeg)
 
 ### Error handling
 
@@ -15,7 +15,7 @@ Mainly there can be two types of errors:
 These errors are handled in this program, and the error message is displayed in the GUI window.
 
 #### Error testcase
-![Example Error]( Cryptography-and-information-security-CS352-/asignment1/img3.jpeg )
+![Example Error](img3.jpeg )
 Note - All the values get cleared if error, except for the error label. In the above example, the input value was -4.
 
 
